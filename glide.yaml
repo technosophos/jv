@@ -1,0 +1,3 @@
+package: github.com/technosophos/jv
+import:
+  - package: github.com/codegangsta/cli
